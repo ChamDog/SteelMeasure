@@ -15,3 +15,6 @@
 
 
 （4）其他事项见设计报告，如有问题或意见，欢迎Q2387303146
+
+版本：vs2022,opencv4.8.0
+opencv配置推荐https://www.bilibili.com/video/BV1i54y1m7tw/?spm_id_from=333.337.search-card.all.click&vd_source=845c9e7999b88ce23ae4be98af703d84
