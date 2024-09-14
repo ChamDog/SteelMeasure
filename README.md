@@ -15,7 +15,7 @@
 
 （3）主要的代码编写从 MFCApplication1Dlg.cpp 的208行开始，如果你想理解逻辑，请从这里开始，对应的.h文件可供参考
 
-（4）calibrate_para_hot是标定文件，steelimg是钢板图片集
+（4）calibrate_para_hot是标定文件，steelimg_partial是钢板图片集
 
 （5）其他事项见设计报告，如有问题或意见，欢迎Q2387303146
 
